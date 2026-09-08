@@ -59,6 +59,7 @@ TESTS = \
   t2410-dos-udf-partition-type.sh \
   t2500-probe-corrupt-hfs.sh \
   t3000-resize-fs.sh \
+  t3001-buffer.sh \
   t3200-resize-partition.sh \
   t3200-type-change.sh \
   t3210-gpt-type-change.sh \
